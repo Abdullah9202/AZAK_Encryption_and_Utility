@@ -22,9 +22,3 @@ string decrypt_X_CSX(const string& input_Data_Param)
 
 	return decrypted_Data;
 }
-
-
-
-
-
-
