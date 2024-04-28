@@ -1,7 +1,6 @@
 #include "Header_Files.h"
 #include "Encry_Decry_Class.h"
 #include "Kali_Tools_Class.h"
-using namespace std;
 
 int main(int argc, char const* argv[])
 {
